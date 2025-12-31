@@ -24,9 +24,6 @@ body {
 
 /*front*/
 .front {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     perspective: 1000px;
     padding: 40px;
     border-radius: 20px;
